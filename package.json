@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/toshihi07/typescript-for-javascript-develop/issues"
   },
-  "homepage": "https://github.com/toshihi07/typescript-for-javascript-develop#readme"
+  "homepage": "https://github.com/toshihi07/typescript-for-javascript-develop#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
